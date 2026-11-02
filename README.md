@@ -50,8 +50,8 @@ Open http://localhost:5173 and go to **Predict CKD**. To point the frontend at a
 
 **Retrain the models (optional):**
 ```bash
-python -m src.train          # risk model
-python -m src.train_stage    # stage model
+python -m src.train --csv data/kidney_disease_dataset_balanced.csv --out-dir outputs/models
+python -m src.train_stage --csv data/kidney_disease_dataset_balanced.csv --out-dir outputs/models_stage
 ```
 
 ## Project structure
