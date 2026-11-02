@@ -1,0 +1,43 @@
+feature,importance
+Urine protein-to-creatinine ratio,4.006543719347771
+Urine output (ml/day),3.9060586755224183
+Serum phosphate level,3.8359313266129362
+Cystatin C level,3.8319433300343313
+Interleukin-6 (IL-6) level,3.7688357130064007
+Sodium level (mEq/L),3.7355390680940856
+Random blood glucose level (mg/dl),3.707670794024995
+Potassium level (mEq/L),3.699782094204508
+Serum albumin level,3.6980417584598806
+Parathyroid hormone (PTH) level,3.6760806328372255
+Blood pressure (mm/Hg),3.669408518905827
+White blood cell count (cells/cumm),3.666389340905557
+Serum calcium level,3.596953178350685
+Cholesterol level,3.5516223470841086
+Blood urea (mg/dl),3.4905601367409322
+Estimated Glomerular Filtration Rate (eGFR),3.4623580929462094
+Hemoglobin level (gms),3.3768780993886756
+Age of the patient,3.3436182200972002
+Serum creatinine (mg/dl),3.2439872558475544
+C-reactive protein (CRP) level,3.194106297219388
+Body Mass Index (BMI),3.188068288729074
+Packed cell volume (%),3.051524285725943
+Duration of diabetes mellitus (years),2.9450666714509808
+Red blood cell count (millions/cumm),2.7704388384607355
+Duration of hypertension (years),2.606889857277957
+Specific gravity of urine,2.575503515581457
+Sugar in urine,2.0910036079972762
+Albumin in urine,1.49940331540413
+Anemia (yes/no),0.8492089055389608
+Pus cells in urine,0.8012743450310594
+Hypertension (yes/no),0.6572962245153259
+Family history of chronic kidney disease,0.5695738672435338
+Red blood cells in urine,0.5318000934258622
+Appetite (good/poor),0.5307646353178143
+Smoking status,0.5264835748034947
+Pus cell clumps in urine,0.4476813285784814
+Coronary artery disease (yes/no),0.4445603630116489
+Bacteria in urine,0.43831016330520806
+Pedal edema (yes/no),0.3538975914118376
+Urinary sediment microscopy results,0.34653735638777833
+Diabetes mellitus (yes/no),0.31240457117075027
+Physical activity level,0.0

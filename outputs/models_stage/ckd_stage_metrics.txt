@@ -1,0 +1,22 @@
+Accuracy: 0.987646
+Macro F1: 0.987619
+
+Classification Report:
+                precision    recall  f1-score   support
+
+     High_Risk     0.9961    1.0000    0.9980      3287
+      Low_Risk     0.9647    0.9805    0.9725      3286
+ Moderate_Risk     0.9967    1.0000    0.9983      3286
+    No_Disease     0.9813    0.9577    0.9694      3287
+Severe_Disease     0.9997    1.0000    0.9998      3286
+
+      accuracy                         0.9876     16432
+     macro avg     0.9877    0.9876    0.9876     16432
+  weighted avg     0.9877    0.9876    0.9876     16432
+
+Confusion Matrix:
+[[3287    0    0    0    0]
+ [   4 3222    0   60    0]
+ [   0    0 3286    0    0]
+ [   9  118   11 3148    1]
+ [   0    0    0    0 3286]]
